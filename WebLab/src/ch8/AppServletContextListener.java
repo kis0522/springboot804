@@ -12,13 +12,11 @@ public class AppServletContextListener implements ServletContextListener {
     }
 
     public void contextDestroyed(ServletContextEvent sce)  { 
-         // ¾îÇÃ¸®ÄÉÀÌ¼Ç Á¾·á
-    	System.out.println("application ÀÌ Á¾·á µÇ¾ú½À´Ï´Ù.");
+    	System.out.println("application ì´ ì¢…ë£Œë˜ì—ˆìŠµë‹ˆë‹¤.");
     }
 
     public void contextInitialized(ServletContextEvent sce)  { 
-         // ¾îÇÃ¸®ÄÉÀÌ¼Ç ½ÇÇà
-    	System.out.println("application ÀÌ ½ÇÇà µÇ¾ú½À´Ï´Ù.");
+    	System.out.println("application ì´ ì‹¤í–‰ë˜ì—ˆìŠµë‹ˆë‹¤.");
     }
 	
 }

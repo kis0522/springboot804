@@ -33,15 +33,15 @@ public class OneServlet extends HttpServlet {
 		out.println("<h1>I am One Servlet</h1>");
 		
 		//response.sendRedirect("TwoServlet");
-		//½ÇÇà °á°ú : http://localhost:8090/WebLab/TwoServlet ÁÖ¼ÒÃ¢ÀÌ ¿­¸®°í ³»¿ëÀº TwoServletÀÌ ¿­¸²
+		//ì‹¤í–‰ ê²°ê³¼ : http://localhost:8090/WebLab/TwoServlet ì£¼ì†Œì°½ì´ ì—´ë¦¬ê³  ë‚´ìš©ì€ TwoServletì´ ì—´ë¦¼
 		
 		//RequestDispatcher rd = request.getRequestDispatcher("TwoServlet");
 		//rd.forward(request, response);
-		//½ÇÇà °á°ú : http://localhost:8090/WebLab/OneServlet ÁÖ¼ÒÃ¢ÀÌ ¿­¸®°í ³»¿ëÀº TwoServletÀ¸·Î ¿­¸²
+		//ì‹¤í–‰ ê²°ê³¼ : http://localhost:8090/WebLab/OneServlet ì£¼ì†Œì°½ì´ ì—´ë¦¬ê³  ë‚´ìš©ì€ TwoServletìœ¼ë¡œ ì—´ë¦¼
 
 		RequestDispatcher rd = request.getRequestDispatcher("TwoServlet");
 		rd.include(request, response);
-		//½ÇÇà °á°ú : http://localhost:8090/WebLab/OneServlet ÁÖ¼ÒÃ¢ÀÌ ¿­¸®°í ³»¿ëÀº OneServlet°ú TwoServletÀÌ ¼ø¼­´ë·Î ¿­¸²
+		//ì‹¤í–‰ ê²°ê³¼ : http://localhost:8090/WebLab/OneServlet ì£¼ì†Œì°½ì´ ì—´ë¦¬ê³  ë‚´ìš©ì€ OneServletê³¼ TwoServletì´ ìˆœì„œëŒ€ë¡œ ì—´ë¦¼
 	}
 
 	/**

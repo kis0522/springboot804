@@ -9,24 +9,15 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * Servlet implementation class RequestTestServlet
- */
 @WebServlet("/RequestTestServlet")
 public class RequestTestServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-    /**
-     * @see HttpServlet#HttpServlet()
-     */
     public RequestTestServlet() {
         super();
         // TODO Auto-generated constructor stub
     }
 
-	/**
-	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
-	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		String method = request.getMethod();
 		String query = request.getQueryString();
@@ -40,11 +31,8 @@ public class RequestTestServlet extends HttpServlet {
 		out.println("uri : " +uri+ "<br/>");
 		out.println("url : " +url+ "<br/>");
 	}
-	//URI = Uniform Resource Identifier : ÀÎÅÍ³İ¿¡ ÀÖ´Â ÀÚ¿øÀ» ³ªÅ¸³»´Â À¯ÀÏÇÑ ÁÖ¼Ò
+	//URI = Uniform Resource Identifier : ì¸í„°ë„·ì— ìˆëŠ” ìì›ì„ ë‚˜íƒ€ë‚´ëŠ” ìœ ì¼í•œ ì£¼ì†Œ
 
-	/**
-	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
-	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		doGet(request, response);

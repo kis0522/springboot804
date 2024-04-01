@@ -38,7 +38,7 @@ public class MyServlet extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		//ÀÏºÎ·Î 500 errorÀ» ¶ç¿ì´Â ÄÚµå
+		//ì¼ë¶€ë¡œ 500 errorì„ ë„ìš°ëŠ” ì½”ë“œ
 		//String data = null;
 		//data.indexOf(0);
 		
@@ -56,5 +56,5 @@ public class MyServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
-	//°á·Ğ : web.xml ÆÄÀÏ¿¡ µî·Ï ¶Ç´Â AnnotationÀ¸·Î ServletÀ¸·Î µî·ÏÇØ »ç¿ë °¡´É
+	//ê²°ë¡  : web.xml íŒŒì¼ì— ë“±ë¡ ë˜ëŠ” Annotationìœ¼ë¡œ Servletìœ¼ë¡œ ë“±ë¡í•´ ì‚¬ìš© ê°€ëŠ¥
 }

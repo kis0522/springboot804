@@ -31,7 +31,7 @@ public class FilterListenerServlet extends HttpServlet {
 	}
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		//ÇÑ±Û º¯È¯
+		//í•œê¸€ ë³€í™˜
 		request.setCharacterEncoding("euc-kr");
 		response.setContentType("text/html; charset=EUC-KR");
 		String id = request.getParameter("id");
@@ -39,8 +39,8 @@ public class FilterListenerServlet extends HttpServlet {
 		HttpSession session = request.getSession();
 		session.setAttribute("id", new String(id));
 		
-		//·Î±×ÀÎ µÈ °ÍÀ» È®ÀÎÇÏ±â
+		//ë¡œê·¸ì¸ ëœ ê²ƒì„ í™•ì¸í•˜ê¸°
 		PrintWriter out = response.getWriter();
-		out.println(id+"·Î ·Î±×ÀÎ µÇ¾ú½À´Ï´Ù.");
+		out.println(id+"ë¡œ ë¡œê·¸ì¸ ë˜ì—ˆìŠµë‹ˆë‹¤.");
 	}
 }

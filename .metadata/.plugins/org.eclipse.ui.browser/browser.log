@@ -20,3 +20,178 @@
 3월 27, 2024 17:29:48.126 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 3월 27, 2024 17:30:36.00 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 3월 27, 2024 17:31:21.66 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+3월 28, 2024 17:45:52.361 NEW SESSION
+3월 28, 2024 17:45:52.361 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+3월 29, 2024 12:52:49.978 NEW SESSION
+3월 29, 2024 12:52:49.978 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2024 12:54:20.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2024 13:37:08.827 [10456:3900:0329/133708.826:ERROR:device_event_log_impl.cc(195)] [13:37:08.825] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+
+3월 29, 2024 14:22:01.178 NEW SESSION
+3월 29, 2024 14:22:01.178 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2024 14:25:51.795 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2024 14:31:11.632 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2024 14:37:57.861 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2024 14:50:22.502 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2024 15:20:33.878 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2024 15:22:39.950 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2024 15:26:20.752 *** You are running in background task mode. ***
+3월 29, 2024 15:26:20.752 *** You are running in headless mode.
+3월 29, 2024 15:26:20.922 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "" 0 ".purge.bg_rm" "HttpCache"
+3월 29, 2024 15:26:20.924 console.error: "Pinged glean, waiting for submission."
+3월 29, 2024 15:27:34.221 *** You are running in background task mode. ***
+3월 29, 2024 15:27:34.222 *** You are running in headless mode.
+3월 29, 2024 15:27:34.267 *** You are running in background task mode. ***
+3월 29, 2024 15:27:34.267 *** You are running in headless mode.
+3월 29, 2024 15:27:34.392 console.error: "C:\\Users\\GR804\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\storage\\to-be-removed" "" 0 "*" "Quota"
+3월 29, 2024 15:27:34.392 console.error: "Pinged glean, waiting for submission."
+3월 29, 2024 15:27:34.439 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "cache2.2024-03-29-06-27-34.purge.bg_rm" 10 ".purge.bg_rm" "HttpCache"
+3월 29, 2024 15:27:34.441 console.error: "started removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-03-29-06-27-34.purge.bg_rm"
+3월 29, 2024 15:27:34.452 console.error: "done removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-03-29-06-27-34.purge.bg_rm. removed 57 entries."
+3월 29, 2024 15:27:34.453 console.error: "Pinged glean, waiting for submission."
+3월 29, 2024 15:35:23.466 [5224:7828:0329/153523.466:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+3월 29, 2024 15:37:11.211 *** You are running in background task mode. ***
+3월 29, 2024 15:37:11.211 *** You are running in headless mode.
+3월 29, 2024 15:37:11.391 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "" 0 ".purge.bg_rm" "HttpCache"
+3월 29, 2024 15:37:11.392 console.error: "Pinged glean, waiting for submission."
+3월 29, 2024 15:37:15.712 *** You are running in background task mode. ***
+3월 29, 2024 15:37:15.712 *** You are running in headless mode.
+3월 29, 2024 15:37:15.748 *** You are running in background task mode. ***
+3월 29, 2024 15:37:15.749 *** You are running in headless mode.
+3월 29, 2024 15:37:15.882 console.error: "C:\\Users\\GR804\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\storage\\to-be-removed" "" 0 "*" "Quota"
+3월 29, 2024 15:37:15.883 console.error: "Pinged glean, waiting for submission."
+3월 29, 2024 15:37:15.913 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "cache2.2024-03-29-06-37-15.purge.bg_rm" 10 ".purge.bg_rm" "HttpCache"
+3월 29, 2024 15:37:15.915 console.error: "started removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-03-29-06-37-15.purge.bg_rm"
+3월 29, 2024 15:37:15.926 console.error: "done removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-03-29-06-37-15.purge.bg_rm. removed 44 entries."
+3월 29, 2024 15:37:15.928 console.error: "Pinged glean, waiting for submission."
+3월 29, 2024 15:37:34.227 *** You are running in background task mode. ***
+3월 29, 2024 15:37:34.227 *** You are running in headless mode.
+3월 29, 2024 15:37:34.393 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "" 0 ".purge.bg_rm" "HttpCache"
+3월 29, 2024 15:37:34.395 console.error: "Pinged glean, waiting for submission."
+3월 29, 2024 15:43:28.835 *** You are running in background task mode. ***
+3월 29, 2024 15:43:28.835 *** You are running in headless mode.
+3월 29, 2024 15:43:28.857 *** You are running in background task mode. ***
+3월 29, 2024 15:43:28.858 *** You are running in headless mode.
+3월 29, 2024 15:43:29.28 console.error: "C:\\Users\\GR804\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\storage\\to-be-removed" "" 0 "*" "Quota"
+3월 29, 2024 15:43:29.32 console.error: "Pinged glean, waiting for submission."
+3월 29, 2024 15:43:29.44 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "cache2.2024-03-29-06-43-28.purge.bg_rm" 10 ".purge.bg_rm" "HttpCache"
+3월 29, 2024 15:43:29.49 console.error: "started removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-03-29-06-43-28.purge.bg_rm"
+3월 29, 2024 15:43:29.68 console.error: "done removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-03-29-06-43-28.purge.bg_rm. removed 44 entries."
+3월 29, 2024 15:43:29.71 console.error: "Pinged glean, waiting for submission."
+3월 29, 2024 15:44:46.409 *** You are running in background task mode. ***
+3월 29, 2024 15:44:46.409 *** You are running in headless mode.
+3월 29, 2024 15:44:46.581 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "" 0 ".purge.bg_rm" "HttpCache"
+3월 29, 2024 15:44:46.582 console.error: "Pinged glean, waiting for submission."
+3월 29, 2024 16:28:55.927 *** You are running in background task mode. ***
+3월 29, 2024 16:28:55.927 *** You are running in headless mode.
+3월 29, 2024 16:28:56.00 *** You are running in background task mode. ***
+3월 29, 2024 16:28:56.00 *** You are running in headless mode.
+3월 29, 2024 16:28:56.95 console.error: "C:\\Users\\GR804\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\storage\\to-be-removed" "" 0 "*" "Quota"
+3월 29, 2024 16:28:56.96 console.error: "Pinged glean, waiting for submission."
+3월 29, 2024 16:28:56.173 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "cache2.2024-03-29-07-28-55.purge.bg_rm" 10 ".purge.bg_rm" "HttpCache"
+3월 29, 2024 16:28:56.174 console.error: "started removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-03-29-07-28-55.purge.bg_rm"
+3월 29, 2024 16:28:56.190 console.error: "done removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-03-29-07-28-55.purge.bg_rm. removed 91 entries."
+3월 29, 2024 16:28:56.191 console.error: "Pinged glean, waiting for submission."
+
+4월 01, 2024 14:32:41.115 NEW SESSION
+4월 01, 2024 14:32:41.115 *** You are running in background task mode. ***
+4월 01, 2024 14:32:41.125 *** You are running in headless mode.
+4월 01, 2024 14:32:41.282 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "" 0 ".purge.bg_rm" "HttpCache"
+4월 01, 2024 14:32:41.284 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 14:37:36.614 *** You are running in background task mode. ***
+4월 01, 2024 14:37:36.615 *** You are running in headless mode.
+4월 01, 2024 14:37:36.648 *** You are running in background task mode. ***
+4월 01, 2024 14:37:36.648 *** You are running in headless mode.
+4월 01, 2024 14:37:36.798 console.error: "C:\\Users\\GR804\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\storage\\to-be-removed" "" 0 "*" "Quota"
+4월 01, 2024 14:37:36.799 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 14:37:36.828 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "cache2.2024-04-01-05-37-36.purge.bg_rm" 10 ".purge.bg_rm" "HttpCache"
+4월 01, 2024 14:37:36.830 console.error: "started removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-04-01-05-37-36.purge.bg_rm"
+4월 01, 2024 14:37:36.835 console.error: "done removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-04-01-05-37-36.purge.bg_rm. removed 19 entries."
+4월 01, 2024 14:37:36.836 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 14:37:45.47 *** You are running in background task mode. ***
+4월 01, 2024 14:37:45.48 *** You are running in headless mode.
+4월 01, 2024 14:37:45.220 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "" 0 ".purge.bg_rm" "HttpCache"
+4월 01, 2024 14:37:45.222 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 14:38:14.262 *** You are running in background task mode. ***
+4월 01, 2024 14:38:14.262 *** You are running in headless mode.
+4월 01, 2024 14:38:14.295 *** You are running in background task mode. ***
+4월 01, 2024 14:38:14.296 *** You are running in headless mode.
+4월 01, 2024 14:38:14.435 console.error: "C:\\Users\\GR804\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\storage\\to-be-removed" "" 0 "*" "Quota"
+4월 01, 2024 14:38:14.437 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 14:38:14.468 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "cache2.2024-04-01-05-38-14.purge.bg_rm" 10 ".purge.bg_rm" "HttpCache"
+4월 01, 2024 14:38:14.470 console.error: "started removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-04-01-05-38-14.purge.bg_rm"
+4월 01, 2024 14:38:14.475 console.error: "done removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-04-01-05-38-14.purge.bg_rm. removed 22 entries."
+4월 01, 2024 14:38:14.477 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 14:38:21.564 *** You are running in background task mode. ***
+4월 01, 2024 14:38:21.565 *** You are running in headless mode.
+4월 01, 2024 14:38:21.727 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "" 0 ".purge.bg_rm" "HttpCache"
+4월 01, 2024 14:38:21.729 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 14:38:48.444 *** You are running in background task mode. ***
+4월 01, 2024 14:38:48.445 *** You are running in headless mode.
+4월 01, 2024 14:38:48.471 *** You are running in background task mode. ***
+4월 01, 2024 14:38:48.471 *** You are running in headless mode.
+4월 01, 2024 14:38:48.621 console.error: "C:\\Users\\GR804\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\storage\\to-be-removed" "" 0 "*" "Quota"
+4월 01, 2024 14:38:48.623 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 14:38:48.654 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "cache2.2024-04-01-05-38-48.purge.bg_rm" 10 ".purge.bg_rm" "HttpCache"
+4월 01, 2024 14:38:48.655 console.error: "started removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-04-01-05-38-48.purge.bg_rm"
+4월 01, 2024 14:38:48.661 console.error: "done removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-04-01-05-38-48.purge.bg_rm. removed 23 entries."
+4월 01, 2024 14:38:48.662 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 14:48:30.540 *** You are running in background task mode. ***
+4월 01, 2024 14:48:30.540 *** You are running in headless mode.
+4월 01, 2024 14:48:30.715 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "" 0 ".purge.bg_rm" "HttpCache"
+4월 01, 2024 14:48:30.717 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 14:48:35.133 *** You are running in background task mode. ***
+4월 01, 2024 14:48:35.133 *** You are running in headless mode.
+4월 01, 2024 14:48:35.168 *** You are running in background task mode. ***
+4월 01, 2024 14:48:35.168 *** You are running in headless mode.
+4월 01, 2024 14:48:35.309 console.error: "C:\\Users\\GR804\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\storage\\to-be-removed" "" 0 "*" "Quota"
+4월 01, 2024 14:48:35.310 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 14:48:35.342 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "cache2.2024-04-01-05-48-35.purge.bg_rm" 10 ".purge.bg_rm" "HttpCache"
+4월 01, 2024 14:48:35.344 console.error: "started removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-04-01-05-48-35.purge.bg_rm"
+4월 01, 2024 14:48:35.348 console.error: "done removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-04-01-05-48-35.purge.bg_rm. removed 19 entries."
+4월 01, 2024 14:48:35.350 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 14:48:40.55 *** You are running in background task mode. ***
+4월 01, 2024 14:48:40.55 *** You are running in headless mode.
+4월 01, 2024 14:48:40.217 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "" 0 ".purge.bg_rm" "HttpCache"
+4월 01, 2024 14:48:40.219 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 15:25:35.956 *** You are running in background task mode. ***
+4월 01, 2024 15:25:35.957 *** You are running in headless mode.
+4월 01, 2024 15:25:35.995 *** You are running in background task mode. ***
+4월 01, 2024 15:25:35.995 *** You are running in headless mode.
+4월 01, 2024 15:25:36.134 console.error: "C:\\Users\\GR804\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\storage\\to-be-removed" "" 0 "*" "Quota"
+4월 01, 2024 15:25:36.135 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 15:25:36.181 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "cache2.2024-04-01-06-25-35.purge.bg_rm" 10 ".purge.bg_rm" "HttpCache"
+4월 01, 2024 15:25:36.183 console.error: "started removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-04-01-06-25-35.purge.bg_rm"
+4월 01, 2024 15:25:36.188 console.error: "done removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-04-01-06-25-35.purge.bg_rm. removed 21 entries."
+4월 01, 2024 15:25:36.189 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 15:25:59.655 *** You are running in background task mode. ***
+4월 01, 2024 15:25:59.655 *** You are running in headless mode.
+4월 01, 2024 15:25:59.826 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "" 0 ".purge.bg_rm" "HttpCache"
+4월 01, 2024 15:25:59.827 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 15:27:12.445 *** You are running in background task mode. ***
+4월 01, 2024 15:27:12.446 *** You are running in headless mode.
+4월 01, 2024 15:27:12.489 *** You are running in background task mode. ***
+4월 01, 2024 15:27:12.489 *** You are running in headless mode.
+4월 01, 2024 15:27:12.633 console.error: "C:\\Users\\GR804\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\storage\\to-be-removed" "" 0 "*" "Quota"
+4월 01, 2024 15:27:12.637 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 15:27:12.679 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "cache2.2024-04-01-06-27-12.purge.bg_rm" 10 ".purge.bg_rm" "HttpCache"
+4월 01, 2024 15:27:12.681 console.error: "started removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-04-01-06-27-12.purge.bg_rm"
+4월 01, 2024 15:27:12.687 console.error: "done removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-04-01-06-27-12.purge.bg_rm. removed 20 entries."
+4월 01, 2024 15:27:12.689 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 15:27:18.365 *** You are running in background task mode. ***
+4월 01, 2024 15:27:18.366 *** You are running in headless mode.
+4월 01, 2024 15:27:18.527 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "" 0 ".purge.bg_rm" "HttpCache"
+4월 01, 2024 15:27:18.529 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 15:35:31.653 *** You are running in background task mode. ***
+4월 01, 2024 15:35:31.654 *** You are running in headless mode.
+4월 01, 2024 15:35:31.702 *** You are running in background task mode. ***
+4월 01, 2024 15:35:31.702 *** You are running in headless mode.
+4월 01, 2024 15:35:31.841 console.error: "C:\\Users\\GR804\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\storage\\to-be-removed" "" 0 "*" "Quota"
+4월 01, 2024 15:35:31.844 console.error: "Deletion of folder 50f4795f-0d60-4168-9196-71f126ae79fd - success=true"
+4월 01, 2024 15:35:31.845 console.error: "Pinged glean, waiting for submission."
+4월 01, 2024 15:35:31.874 console.error: "C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release" "cache2.2024-04-01-06-35-31.purge.bg_rm" 10 ".purge.bg_rm" "HttpCache"
+4월 01, 2024 15:35:31.875 console.error: "started removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-04-01-06-35-31.purge.bg_rm"
+4월 01, 2024 15:35:31.881 console.error: "done removing C:\\Users\\GR804\\AppData\\Local\\Mozilla\\Firefox\\Profiles\\yufe6uvm.default-release\\cache2.2024-04-01-06-35-31.purge.bg_rm. removed 25 entries."
+4월 01, 2024 15:35:31.883 console.error: "Pinged glean, waiting for submission."

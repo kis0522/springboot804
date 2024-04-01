@@ -29,12 +29,12 @@ public class ResponseTest extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		response.setContentType("text/html; charset=EUC-KR");
-		response.setHeader("cache-control", "no-cache");	//Äí±â ¾øÀ½À¸·Î ¼ÂÆÃ
-		response.setHeader("expire", "0");		//0 = ¼­¹ö¸¦ ²ô¸é ¹Ù·Î ÄíÅ°°¡ »èÁ¦µÈ´Ù. 1 = ÇÏ·çµ¿¾È À¯ÁöµÈ´Ù.
+		response.setHeader("cache-control", "no-cache");	//ì¿ ê¸° ì—†ìŒìœ¼ë¡œ ì…‹íŒ…
+		response.setHeader("expire", "0");		//0 = ì„œë²„ë¥¼ ë„ë©´ ë°”ë¡œ ì¿ í‚¤ê°€ ì‚­ì œëœë‹¤. 1 = í•˜ë£¨ë™ì•ˆ ìœ ì§€ëœë‹¤.
 		
 		PrintWriter out = response.getWriter();
 		out.println("<h1>HelloWorld</h1><br/>");
-		out.println("<h1>¾È³çÇÏ¼¼¿ä..</h1>");
+		out.println("<h1>ï¿½È³ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½..</h1>");
 	}
 
 	/**
