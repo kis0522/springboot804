@@ -243,3 +243,9 @@
 4월 02, 2024 14:43:44.467 [GFX1]: Exception occurred reading font data for RomanS
 4월 02, 2024 14:44:24.562 Exiting due to channel error.
 4월 02, 2024 14:44:35.992 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 03, 2024 14:28:12.996 NEW SESSION
+4월 03, 2024 14:28:12.997 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 03, 2024 17:21:10.908 NEW SESSION
+4월 03, 2024 17:21:10.908 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
