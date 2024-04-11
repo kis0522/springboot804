@@ -7,6 +7,8 @@ D:\JavaProgramming\servlet_source\.metadata\.plugins\org.eclipse.jst.jsp.core\js
 \WebLab\src
 D:\JavaProgramming\servlet_source\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1549500562.index
 \WebLab\src
+D:\JavaProgramming\servlet_source\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\940634407.index
+\BoardLab\src
 D:\JavaProgramming\servlet_source\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\769830658.index
 \Project03\src
 D:\JavaProgramming\servlet_source\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1431882839.index
